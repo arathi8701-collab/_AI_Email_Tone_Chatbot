@@ -46,7 +46,6 @@ app.py Python code for the chatbot
 
 README.md instructions and description
 
-Al Powered Email Tone Checker Chatbot.ipynb (optional backup notebook)
 
 ## References
 
